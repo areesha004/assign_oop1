@@ -1,9 +1,6 @@
 
    package Assignment1;
-
-    public class University {
-        Lab[] labs = new Lab[5];
-        int labCount = 0;
+public class Main{
 
         public static void main(String[] args) {
             University university = new University();
